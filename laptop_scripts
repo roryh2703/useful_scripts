@@ -1,0 +1,7 @@
+    #    ssh into arc and pc3240
+ssh -Y scrh@arc2.leeds.ac.uk    can then ssh into local machine using...
+ssh comp-pc3240
+
+    #    open bash_profile and gedit 
+open -a gedit    (shortcut added in bash_profile so only 'gedit' is required)
+gedit ~/.bash_profile    open bash file, from home directory
